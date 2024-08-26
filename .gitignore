@@ -1,0 +1,4 @@
+*.joblib
+
+Models/*.joblib
+some_directory/**/*.joblib
