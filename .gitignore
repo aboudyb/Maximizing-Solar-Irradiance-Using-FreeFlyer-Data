@@ -2,3 +2,4 @@
 
 Models/*.joblib
 some_directory/**/*.joblib
+Models/RandomForestModel.joblib
